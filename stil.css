@@ -9,6 +9,10 @@ p{
 	background-color:#094B14;
 	padding: 15px;
 }
+@font-face {
+    font-family: 'lucijaadzaga';
+	src: url(font/lucijaadzaga.ttf);
+}
 h1, h2, h3{
 	color: #094B14;
 }
@@ -17,6 +21,7 @@ h1, h2{
 }
 h1 span{
 	font-size:50px;
+	font-family: 'lucijaadzaga';
 }
 body{
 	background-image: url("slike/poz.jpg")
